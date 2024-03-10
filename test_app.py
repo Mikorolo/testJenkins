@@ -1,5 +1,5 @@
 import unittest
-from app import dodaj
+from app import *
 
 class TestArytmetyki(unittest.TestCase):
     def test_dodawanie(self):
